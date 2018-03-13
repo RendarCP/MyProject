@@ -1,0 +1,74 @@
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Discharge_cal.csprojResolveAssemblyReference.cache
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.chageCal.resources
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.GenerateResource.Cache
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TrustInfo.xml
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+D:\Programming pratice\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Discharge_cal.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.chageCal.resources
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TrustInfo.xml
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+E:\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+E:\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+E:\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csprojResolveAssemblyReference.cache
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.chageCal.resources
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.GenerateResource.Cache
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.CoreCompileInputs.cache
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TrustInfo.xml
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+E:\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+E:\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csprojResolveAssemblyReference.cache
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.chageCal.resources
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.GenerateResource.Cache
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.CoreCompileInputs.cache
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TrustInfo.xml
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csprojResolveAssemblyReference.cache
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.chageCal.resources
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.GenerateResource.Cache
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\Discharge_cal.csproj.CoreCompileInputs.cache
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TrustInfo.xml
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ch.s.w\Desktop\개인용\전역계산기\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
